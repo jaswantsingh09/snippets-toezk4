@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jaswantsingh09.github.io/snippets-toezk4/sitemap.xml
